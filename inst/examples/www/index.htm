@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="Access-Control-Allow-Origin" content="*">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>D3 Cartogram</title>
+ <link rel="stylesheet" href="cartogram.css" />
+  </head>
+        
+<body>
+    <div id='cartogram'> <!-- /container -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+        <script src="colorbrewer.js"></script>
+        <script src="d3cartogram.js"></script>
+        <script src="carto.js"></script>
+  
+
+<script>
+
+   //+++ Definable Settings
+
+   var standalone = true,
+    map = "world",
+    datasettransitioneasingfunction= "linear",
+    datasettransition = 750,
+    colorbrewersetting = colorbrewer.YlOrRd[3],
+    colordefault = '#ffffff',
+    colorbreweruse = false,
+    zoom = false,
+    mapprojection = d3.geo.mercator(),   
+    mapscale = 1,                 
+    maptranslatex = 0, 
+    maptranslatey = 100,
+    scalingfields = false,
+    scaledata = "/data/scaledata.csv",
+    shape = "/data/worldw.topo.json",
+    circledata = "",    
+
+    body = "#body",
+    div = "#cartogram";
+
+    // map = "custom", for custom topo 
+    // circledata = "/data/circledata.csv"
+
+
+   //+++ Queue data load
+     
+    var  proj = mapprojection,  mapzoomswitch = zoom, xmap = map;
+
+queue()
+     .defer(d3.csv, scaledata)
+     .defer(d3.csv, circledata)
+    .awaitAll(ready);
+
+function ready(error, scaledata, circledata) {      
+        languagesstats = scaledata[0];
+        languagesloc = scaledata[1];
+
+      d3cartogram(standalone, languagesstats, shape, xmap, proj, languagesloc,
+datasettransition, datasettransitioneasingfunction, mapzoomswitch, mapprojection, mapscale,
+   maptranslatex, maptranslatey, colorbrewersetting, colorbreweruse, colordefault, scalingfields, body, div);
+}
+
+
+
+
+</script>
+
+    </div>
+</body></html>
