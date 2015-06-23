@@ -1,0 +1,465 @@
+"NAME","FULLNAME","POPULATION2010","NRLANGUAGES2010","COLOR","tooltip","POPULATION2011"
+"MNE","Montenegro",5e+08,,"#FFFFFF","Montenegro
+Exports: 5e+08",307088400.050998
+"SRB","Serbia",928550368.9,0.039152404,"#ff5000","Serbia
+Exports: 928550368.9",570294094.304529
+"GRC","Greece",234567960,0.009890578,"#3a5000","Greece
+Exports: 234567960",144066199.079253
+"ITA","Italy",191429370,0.008071635,"#2d5000","Italy
+Exports: 191429370",117571477.912141
+"BIH","Bosnia",166515277.1,0,"#0050ff","Bosnia
+Exports: 166515277.1",102269820.057375
+"HRV","Croatia",155779800,0.006568468,"#235000","Croatia
+Exports: 155779800",95676339.0845288
+"SVN","Slovenia",147091670,0.006202133,"#215000","Slovenia
+Exports: 147091670",90340291.2022587
+"DEU","Germany",110175230,0.004645548,"#165000","Germany
+Exports: 110175230",67667070.2119014
+"CHN","China",95107211.1,0.004010204,"#125000","China
+Exports: 95107211.1",58412642.580023
+"HUN","Hungary",77537570,0.003269378,"#0d5000","Hungary
+Exports: 77537570",47621776.6302845
+"AUT","Austria",65074240,0.002743861,"#095000","Austria
+Exports: 65074240",39967088.4922693
+"NLD","Netherlands",61029320,0.002573306,"#085000","Netherlands
+Exports: 61029320",37482792.4700007
+"SVK","Slovak Republic",49359640,0.002081253,"#055000","Slovak Republic
+Exports: 49359640",30315545.7493865
+"MKD","Macedonia",37176693.28,0.001567558,"#015000","Macedonia
+Exports: 37176693.28",22833062.5170838
+"TUR","Turkey",32054501.6,0.001351581,"#005000","Turkey
+Exports: 32054501.6",19687131.2215523
+"IND","India",31289034.08,0.001223129,"#005018","India
+Exports: 31289034.08",19216998.8295367
+"BRA","Brazil",29398204,0.001239578,"#005015","Brazil
+Exports: 29398204",18055694.8614657
+"FRA","France",28732990,0.001211529,"#00501a","France
+Exports: 28732990",17647135.8555626
+"ROU","Romania",27537070,0.001161103,"#005024","Romania
+Exports: 27537070",16912629.5367847
+"ESP","Spain",26338620,0.00111057,"#00502d","Spain
+Exports: 26338620",16176569.3507024
+"GBR","United Kingdom",25195060,0.001062352,"#005036","United Kingdom
+Exports: 25195060",15474221.3291778
+"BGR","Bulgaria",24495020,0.001032835,"#00503c","Bulgaria
+Exports: 24495020",15044273.0020344
+"CZE","Czech Republic",24467214.39,0,"#0050ff","Czech Republic
+Exports: 24467214.39",15027195.4414597
+"USA","United States",23462092.5,0.000989281,"#005044","United States
+Exports: 23462092.5",14409872.895347
+"POL","Poland",20499820,0.000864377,"#00505c","Poland
+Exports: 20499820",12590513.8502669
+"RUS","Russian Federation",19546175,0.000824166,"#005063","Russian Federation
+Exports: 19546175",12004807.2157336
+"ALB","Albania",18883103.25,0.00080969,"#005066","Albania
+Exports: 18883103.25",11597563.9300806
+"CHE","Switzerland",13755747.05,0.000580012,"#005092","Switzerland
+Exports: 13755747.05",8448460.70618146
+"BEL","Belgium",12236730,0.000515963,"#00509e","Belgium
+Exports: 12236730",7515515.67511209
+"VNM","Vietnam",6988442.122,0.000294668,"#0050c7","Vietnam
+Exports: 6988442.122",4292139.02018796
+"UVK","Kosovo",6158533.173,,"#888888","Kosovo
+Exports: 6158533.173",3782428.19751513
+"JAM","Jamaica",5379999.683,0,"#0050ff","Jamaica
+Exports: 5379999.683",3304270.98985469
+"JPN","Japan",4604166.082,0.000194135,"#0050da","Japan
+Exports: 4604166.082",2827771.9913809
+"HKG","China, Hong Kong SAR",4257861.235,0.000179533,"#0050dd","China, Hong Kong SAR
+Exports: 4257861.235",2615079.58859063
+"SWE","Sweden",4182310,0.000176347,"#0050de","Sweden
+Exports: 4182310",2568677.77283458
+"TWN","Taiwan Province of China",3704800,0.000156191,"#0050e2","Taiwan Province of China
+Exports: 3704800",2275402.20901787
+"BGD","Bangladesh",3106148.103,0,"#0050ff","Bangladesh
+Exports: 3106148.103",1907724.10254342
+"DZA","Algeria",2564974.703,0.000108152,"#0050eb","Algeria
+Exports: 2564974.703",1575347.95543111
+"KOR","Korea, Republic of",2350704.4,9.91176e-05,"#0050ec","Korea, Republic of
+Exports: 2350704.4",1443748.10637768
+"IDN","Indonesia",2269867.6,9.57092e-05,"#0050ed","Indonesia
+Exports: 2269867.6",1394100.0192232
+"ARG","Argentina",2119818.365,6.72082e-05,"#0050f2","Argentina
+Exports: 2119818.365",1301943.26021314
+"MYS","Malaysia",1959706.1,8.26312e-05,"#0050ef","Malaysia
+Exports: 1959706.1",1203606.02163836
+"KAZ","Kazakhstan",1799869.051,0,"#0050ff","Kazakhstan
+Exports: 1799869.051",1105437.8143458
+"MEX","Mexico",1683853.442,0,"#0050ff","Mexico
+Exports: 1683853.442",1034183.71884829
+"ISR","Israel",1661568.504,0,"#0050ff","Israel
+Exports: 1661568.504",1020496.82693698
+"UKR","Ukraine",1535077.5,6.47267e-05,"#0050f3","Ukraine
+Exports: 1535077.5",942808.986858571
+"CAN","Canada",1508535.124,6.36075e-05,"#0050f3","Canada
+Exports: 1508535.124",926507.275299787
+"CRI","Costa Rica",1371264.309,0,"#0050ff","Costa Rica
+Exports: 1371264.309",842198.725395694
+"ZAF","South Africa",1105106.567,0,"#0050ff","South Africa
+Exports: 1105106.567",678730.815091762
+"DNK","Denmark",978670,4.12657e-05,"#0050f7","Denmark
+Exports: 978670",601076.40895582
+"EGY","Egypt",896978.9545,3.78212e-05,"#0050f8","Egypt
+Exports: 896978.9545",550903.664033643
+"PRT","Portugal",793430,3.3455e-05,"#0050f9","Portugal
+Exports: 793430",487306.298504926
+"PAK","Pakistan",750090.3277,3.16276e-05,"#0050f9","Pakistan
+Exports: 750090.3277",460688.077254243
+"CYP","Cyprus",707850,2.98466e-05,"#0050f9","Cyprus
+Exports: 707850",434745.047952197
+"IRN","Iran",707034.7764,0,"#0050ff","Iran
+Exports: 707034.7764",434244.356530182
+"FLK","Falkland Islands",673395.1669,0,"#0050ff","Falkland Islands
+Exports: 673395.1669",413583.688810791
+"SEN","Senegal",646215.9,2.72477e-05,"#0050fa","Senegal
+Exports: 646215.9",396890.813637031
+"SGP","Singapore",578501.6573,2.43926e-05,"#0050fa","Singapore
+Exports: 578501.6573",355302.296734215
+"KHM","Cambodia",574141.6586,0,"#0050ff","Cambodia
+Exports: 574141.6586",352624.4866842
+"FIN","Finland",466840,1.96843e-05,"#0050fb","Finland
+Exports: 466840",286722.297359616
+"LTU","Lithuania",369270,1.55703e-05,"#0050fc","Lithuania
+Exports: 369270",226797.066973664
+"CHL","Chile",368622.6211,0,"#0050ff","Chile
+Exports: 368622.6211",226399.461872408
+"GTM","Guatemala",311135.6624,1.31191e-05,"#0050fd","Guatemala
+Exports: 311135.6624",191092.305530447
+"PRK","Korea, Dem. People's Rep.",298206.3465,0,"#0050ff","Korea, Dem. People's Rep.
+Exports: 298206.3465",183151.419663477
+"LKA","Sri Lanka",277257.2481,6.79732e-06,"#0050fe","Sri Lanka
+Exports: 277257.2481",170284.969443143
+"NOR","Norway",265604.4085,1.11992e-05,"#0050fd","Norway
+Exports: 265604.4085",163128.065705513
+"ARE","United Arab Emirates",264366.921,0,"#0050ff","United Arab Emirates
+Exports: 264366.921",162368.029592597
+"SLE","Sierra Leone",249616.1163,0,"#0050ff","Sierra Leone
+Exports: 249616.1163",153308.427563022
+"KGZ","Kyrgyzstan",226797.5082,9.56294e-06,"#0050fd","Kyrgyzstan
+Exports: 226797.5082",139293.767857382
+"IRL","Ireland",204050,8.60379e-06,"#0050fd","Ireland
+Exports: 204050",125322.776060812
+"QAT","Qatar",195986.6635,0,"#0050ff","Qatar
+Exports: 195986.6635",120370.461851097
+"MDA","Moldova",192998.9832,8.13782e-06,"#0050fd","Moldova
+Exports: 192998.9832",118535.497924715
+"EST","Estonia",190850,8.04721e-06,"#0050fd","Estonia
+Exports: 190850",117215.642299466
+"LUX","Luxembourg",167310,7.05464e-06,"#0050fe","Luxembourg
+Exports: 167310",102757.920425065
+"KEN","Kenya",152859.8425,6.44535e-06,"#0050fe","Kenya
+Exports: 152859.8425",93882.968930745
+"PER","Peru",129301.5191,0,"#0050ff","Peru
+Exports: 129301.5191",79413.9932491651
+"URY","Uruguay",127019.5808,5.35579e-06,"#0050fe","Uruguay
+Exports: 127019.5808",78012.4796860409
+"MAR","Morocco",122925,5.18314e-06,"#0050fe","Morocco
+Exports: 122925",75497.6831525378
+"LVA","Latvia",111210,4.68918e-06,"#0050fe","Latvia
+Exports: 111210",68302.6019393429
+"MUS","Mauritius",102401.8593,0,"#0050ff","Mauritius
+Exports: 102401.8593",62892.8462693688
+"LBN","Lebanon",93273.23305,0,"#0050ff","Lebanon
+Exports: 93273.23305",57286.2558098167
+"DMA","Dominica",81689.24392,3.44443e-06,"#0050fe","Dominica
+Exports: 81689.24392",50171.638433537
+"CUB","Cuba",76773.46294,0,"#0050ff","Cuba
+Exports: 76773.46294",47152.4798012383
+"AUS","Australia",75476.53679,3.18247e-06,"#0050fe","Australia
+Exports: 75476.53679",46355.9378484627
+"MMR","Myanmar",70522.54113,0,"#0050ff","Myanmar
+Exports: 70522.54113",43313.3086462848
+"FRO","Faeroe Islands",66720.03262,0,"#0050ff","Faeroe Islands
+Exports: 66720.03262",40977.8961372524
+"NZL","New Zealand",65736.0413,2.77177e-06,"#0050fe","New Zealand
+Exports: 65736.0413",40373.5514970066
+"SYR","Syria",61605.35423,2.59759e-06,"#0050ff","Syria
+Exports: 61605.35423",37836.5793301313
+"MDG","Madagascar",60855.09389,2.56596e-06,"#0050ff","Madagascar
+Exports: 60855.09389",37375.7868352667
+"ETH","Ethiopia",47904.08995,2.01988e-06,"#0050ff","Ethiopia
+Exports: 47904.08995",29421.5806772892
+"BLR","Belarus",47190,1.98977e-06,"#0050ff","Belarus
+Exports: 47190",28983.0031968132
+"PAN","Panama",40248.37842,0,"#0050ff","Panama
+Exports: 40248.37842",24719.6202672898
+"BHR","Bahrain",25281.2689,0,"#0050ff","Bahrain
+Exports: 25281.2689",15527.1688355201
+"TJK","Tajikistan",23073.97895,9.72916e-07,"#0050ff","Tajikistan
+Exports: 23073.97895",14171.5025571318
+"UGA","Uganda",21855.51016,0,"#0050ff","Uganda
+Exports: 21855.51016",13423.1472946655
+"VEN","Venezuela, Bolivarian Republic of",21695.29699,9.14784e-07,"#0050ff","Venezuela, Bolivarian Republic of
+Exports: 21695.29699",13324.7480825807
+"PHL","Philippines",21206.9,8.94191e-07,"#0050ff","Philippines
+Exports: 21206.9",13024.785982083
+"GHA","Ghana",20458.77869,0,"#0050ff","Ghana
+Exports: 20458.77869",12565.3072298191
+"MLT","Malta",20130,8.48783e-07,"#0050ff","Malta
+Exports: 20130",12363.3789860532
+"SWZ","Swaziland",19936.89852,0,"#0050ff","Swaziland
+Exports: 19936.89852",12244.7805369718
+"LAO","Lao P.D.R.",17915.31885,0,"#0050ff","Lao P.D.R.
+Exports: 17915.31885",11003.1732041
+"TKM","Turkmenistan",17697.65881,0,"#0050ff","Turkmenistan
+Exports: 17697.65881",10869.4914572227
+"NGA","Nigeria",13251.35495,0,"#0050ff","Nigeria
+Exports: 13251.35495",8138.67478020674
+"AZE","Azerbaijan",12683,5.3478e-07,"#0050ff","Azerbaijan
+Exports: 12683",7789.60435569361
+"NAM","Namibia",12582.48713,0,"#0050ff","Namibia
+Exports: 12582.48713",7727.87168282794
+"WLF","Wallis and Futuna Islands",12096.92248,0,"#0050ff","Wallis and Futuna Islands
+Exports: 12096.92248",7429.64913984829
+"GEO","Georgia",10876.221,0,"#0050ff","Georgia
+Exports: 10876.221",6679.92261098213
+"CIV","C“te d'Ivoire",10685.55674,0,"#0050ff","C“te d'Ivoire
+Exports: 10685.55674",6562.82104588151
+"MRT","Mauritania",9559.07801,0,"#0050ff","Mauritania
+Exports: 9559.07801",5870.96394410715
+"BHS","Bahamas",6902.775281,0,"#0050ff","Bahamas
+Exports: 6902.775281",4239.52443390773
+"SAU","Saudi Arabia",6350.382901,0,"#0050ff","Saudi Arabia
+Exports: 6350.382901",3900.25784955861
+"GNB","Guinea Bissau",4783.448659,0,"#0050ff","Guinea Bissau
+Exports: 4783.448659",2937.8831908368
+"MDV","Maldives",4588.257685,0,"#0050ff","Maldives
+Exports: 4588.257685",2818.00142301669
+"NPL","Nepal",3204.662296,0,"#0050ff","Nepal
+Exports: 3204.662296",1968.22923436479
+"OMN","Oman",3062.161581,1.29116e-07,"#0050ff","Oman
+Exports: 3062.161581",1880.70860121385
+"MAC","China, Macao SAR",2827.820783,0,"#0050ff","China, Macao SAR
+Exports: 2827.820783",1736.78191976486
+"GRL","Greenland",2728.199963,0,"#0050ff","Greenland
+Exports: 2728.199963",1675.59712331372
+"AGO","Angola",2717.079371,0,"#0050ff","Angola
+Exports: 2717.079371",1668.76711370392
+"KWT","Kuwait",2526.071188,0,"#0050ff","Kuwait
+Exports: 2526.071188",1551.45431907569
+"AFG","Afghanistan",2344.199711,0,"#0050ff","Afghanistan
+Exports: 2344.199711",1439.753077302
+"TZA","Tanzania",2196.212195,0,"#0050ff","Tanzania
+Exports: 2196.212195",1348.86257827008
+"ZWE","Zimbabwe",1848.602008,7.79465e-08,"#0050ff","Zimbabwe
+Exports: 1848.602008",1135.36846593556
+"BRB","Barbados",1774.632844,0,"#0050ff","Barbados
+Exports: 1774.632844",1089.93832148382
+"GIB","Gibraltar",1592.464898,0,"#0050ff","Gibraltar
+Exports: 1592.464898",978.054995328391
+"ISL","Iceland",1572.901629,6.63215e-08,"#0050ff","Iceland
+Exports: 1572.901629",966.039689374436
+"ZMB","Zambia",1329.292822,5.60497e-08,"#0050ff","Zambia
+Exports: 1329.292822",816.420811814511
+"GUM","Guam",1220.220253,0,"#0050ff","Guam
+Exports: 1220.220253",749.430970407187
+"SLV","El Salvador",1064.358437,0,"#0050ff","El Salvador
+Exports: 1064.358437",653.704258998221
+"CMR","Cameroon",997.5945628,4.20637e-08,"#0050ff","Cameroon
+Exports: 997.5945628",612.699436379653
+"MOZ","Mozambique",985.6485073,4.156e-08,"#0050ff","Mozambique
+Exports: 985.6485073",605.362446238822
+"BWA","Botswana",860.1286912,0,"#0050ff","Botswana
+Exports: 860.1286912",528.271087237133
+"UZB","Uzbekistan",688.5565903,0,"#0050ff","Uzbekistan
+Exports: 688.5565903",422.895483319595
+"GIN","Guinea",548.4764434,2.31266e-08,"#0050ff","Guinea
+Exports: 548.4764434",336.861506938735
+"GUY","Guyana",408.61159,0,"#0050ff","Guyana
+Exports: 408.61159",250.959758830789
+"PLW","Palau",381.480017,0,"#0050ff","Palau
+Exports: 381.480017",234.296176143915
+"MLI","Mali",284.4578725,0,"#0050ff","Mali
+Exports: 284.4578725",174.707425895871
+"NIC","Nicaragua",244.1722372,0,"#0050ff","Nicaragua
+Exports: 244.1722372",149.964923317241
+"SPM","Saint Pierre and Miquelon",230.3586901,0,"#0050ff","Saint Pierre and Miquelon
+Exports: 230.3586901",141.480963161305
+"CPV","Cabo Verde",219.9195745,0,"#0050ff","Cabo Verde
+Exports: 219.9195745",135.069500546202
+"COD","Congo (Democratic Republic of the)",191.4532315,0,"#0050ff","Congo (Democratic Republic of the)
+Exports: 191.4532315",117.586133091857
+"BFA","Burkina Faso",163.715235,0,"#0050ff","Burkina Faso
+Exports: 163.715235",100.550099160246
+"GMB","Gambia",149.5104676,0,"#0050ff","Gambia
+Exports: 149.5104676",91.8258605723211
+"IRQ","Iraq",147.6651993,0,"#0050ff","Iraq
+Exports: 147.6651993",90.6925395924974
+"TLS","Timor Leste",124.5369291,,"#888888","Timor Leste
+Exports: 124.5369291",76.4876926091671
+"PYF","French Polynesia",109.2912775,0,"#0050ff","French Polynesia
+Exports: 109.2912775",67.1241670940092
+"COM","Comoros",96.72194927,0,"#0050ff","Comoros
+Exports: 96.72194927",59.4043773022761
+"NER","Niger",86.87109277,0,"#0050ff","Niger
+Exports: 86.87109277",53.3542097788422
+"SUR","Surinam",72.62495139,0,"#0050ff","Surinam
+Exports: 72.62495139",44.6045602522732
+"FJI","Fiji",49.03603012,0,"#0050ff","Fiji
+Exports: 49.03603012",30.1167920688067
+"CAF","Central Afr. Rep.",27.09057541,0,"#0050ff","Central Afr. Rep.
+Exports: 27.09057541",16.6384029182356
+"TCD","Chad",17.79098787,0,"#0050ff","Chad
+Exports: 17.79098787",10.92681200065
+"MWI","Malawi",13.83159255,0,"#0050ff","Malawi
+Exports: 13.83159255",8.4950432526736
+"TTO","Trinidad and Tobago",7.130413062,3.00654e-10,"#0050ff","Trinidad and Tobago
+Exports: 7.130413062",4.37933427782463
+"ABW","Aruba",0,0,"#0050ff","Aruba
+Exports: 0",0
+"AIA","Anguilla",0,0,"#0050ff","Anguilla
+Exports: 0",0
+"AND","Andorra",0,0,"#0050ff","Andorra
+Exports: 0",0
+"ANT","Netherlands Antilles",0,0,"#0050ff","Netherlands Antilles
+Exports: 0",0
+"ARM","Armenia",0,0,"#0050ff","Armenia
+Exports: 0",0
+"ASM","American Samoa",0,0,"#0050ff","American Samoa
+Exports: 0",0
+"ATG","Antigua",0,0,"#0050ff","Antigua
+Exports: 0",0
+"BDI","Burundi",0,0,"#0050ff","Burundi
+Exports: 0",0
+"BEN","Benin",0,0,"#0050ff","Benin
+Exports: 0",0
+"BLZ","Belize",0,0,"#0050ff","Belize
+Exports: 0",0
+"BMU","Bermuda",0,0,"#0050ff","Bermuda
+Exports: 0",0
+"BOL","Bolivia",0,0,"#0050ff","Bolivia
+Exports: 0",0
+"BRN","Brunei",0,0,"#0050ff","Brunei
+Exports: 0",0
+"BTN","Bhutan",0,0,"#0050ff","Bhutan
+Exports: 0",0
+"COG","Rep of Congo",0,0,"#0050ff","Rep of Congo
+Exports: 0",0
+"COK","Cook Isds",0,0,"#0050ff","Cook Isds
+Exports: 0",0
+"COL","Colombia",0,0,"#0050ff","Colombia
+Exports: 0",0
+"CUW","Cura‡ao",0,0,"#0050ff","Cura‡ao
+Exports: 0",0
+"CYM","Cayman Islands",0,0,"#0050ff","Cayman Islands
+Exports: 0",0
+"DJI","Djibouti",0,0,"#0050ff","Djibouti
+Exports: 0",0
+"DOM","Dominican Republic",0,0,"#0050ff","Dominican Republic
+Exports: 0",0
+"ECU","Ecuador",0,0,"#0050ff","Ecuador
+Exports: 0",0
+"ERI","Eritrea",0,0,"#0050ff","Eritrea
+Exports: 0",0
+"ESH","Western Sahara",0,0,"#0050ff","Western Sahara
+Exports: 0",0
+"FSM","Fed. States of Micronesia",0,0,"#0050ff","Fed. States of Micronesia
+Exports: 0",0
+"GAB","Gabon",0,0,"#0050ff","Gabon
+Exports: 0",0
+"GLP","Guadeloupe",0,0,"#0050ff","Guadeloupe
+Exports: 0",0
+"GNQ","Equatorial Guinea",0,0,"#0050ff","Equatorial Guinea
+Exports: 0",0
+"GRD","Grenada",0,0,"#0050ff","Grenada
+Exports: 0",0
+"GUF","French Guiana",0,0,"#0050ff","French Guiana
+Exports: 0",0
+"HND","Honduras",0,0,"#0050ff","Honduras
+Exports: 0",0
+"HTI","Haiti",0,0,"#0050ff","Haiti
+Exports: 0",0
+"IMN","Isle of Man",0,0,"#0050ff","Isle of Man
+Exports: 0",0
+"JOR","Jordan",0,0,"#0050ff","Jordan
+Exports: 0",0
+"KIR","Kiribati",0,0,"#0050ff","Kiribati
+Exports: 0",0
+"KNA","Saint Kitts & Nevis",0,0,"#0050ff","Saint Kitts & Nevis
+Exports: 0",0
+"LBR","Liberia",0,0,"#0050ff","Liberia
+Exports: 0",0
+"LBY","Libya",0,0,"#0050ff","Libya
+Exports: 0",0
+"LCA","Saint Lucia",0,0,"#0050ff","Saint Lucia
+Exports: 0",0
+"LIE","Liechtenstein",0,0,"#0050ff","Liechtenstein
+Exports: 0",0
+"LSO","Lesotho",0,0,"#0050ff","Lesotho
+Exports: 0",0
+"MCO","Monaco",0,0,"#0050ff","Monaco
+Exports: 0",0
+"MHL","Marshall Islands",0,0,"#0050ff","Marshall Islands
+Exports: 0",0
+"MNG","Mongolia",0,0,"#0050ff","Mongolia
+Exports: 0",0
+"MNP","Northern Mariana Islands",0,0,"#0050ff","Northern Mariana Islands
+Exports: 0",0
+"MSR","Montserrat",0,0,"#0050ff","Montserrat
+Exports: 0",0
+"MTQ","Martinique",0,0,"#0050ff","Martinique
+Exports: 0",0
+"MYT","Mayotte",0,0,"#0050ff","Mayotte
+Exports: 0",0
+"NCL","New Caledonia",0,0,"#0050ff","New Caledonia
+Exports: 0",0
+"NIU","Niue",0,0,"#0050ff","Niue
+Exports: 0",0
+"NRU","Nauru",0,0,"#0050ff","Nauru
+Exports: 0",0
+"PNG","Papua New Guinea",0,0,"#0050ff","Papua New Guinea
+Exports: 0",0
+"PRI","Puerto Rico",0,0,"#0050ff","Puerto Rico
+Exports: 0",0
+"PRY","Paraguay",0,0,"#0050ff","Paraguay
+Exports: 0",0
+"PSE","State of Palestine",0,0,"#0050ff","State of Palestine
+Exports: 0",0
+"REU","Reunion Island",0,0,"#0050ff","Reunion Island
+Exports: 0",0
+"RWA","Rwanda",0,0,"#0050ff","Rwanda
+Exports: 0",0
+"SDN","Sudan",0,0,"#0050ff","Sudan
+Exports: 0",0
+"SHN","Saint Helena",0,0,"#0050ff","Saint Helena
+Exports: 0",0
+"SLB","Solomon Islands",0,0,"#0050ff","Solomon Islands
+Exports: 0",0
+"SMR","San Marino",0,0,"#0050ff","San Marino
+Exports: 0",0
+"SOM","Somalia",0,0,"#0050ff","Somalia
+Exports: 0",0
+"SSD","South ?Sudan",0,0,"#0050ff","South ?Sudan
+Exports: 0",0
+"STP","Sao Tome and Principe",0,0,"#0050ff","Sao Tome and Principe
+Exports: 0",0
+"SYC","Seychelles",0,0,"#0050ff","Seychelles
+Exports: 0",0
+"TCA","Turks and Caicos Isds",0,0,"#0050ff","Turks and Caicos Isds
+Exports: 0",0
+"TGO","Togo",0,0,"#0050ff","Togo
+Exports: 0",0
+"THA","Thailand",0,0,"#0050ff","Thailand
+Exports: 0",0
+"TKL","Tokelau",0,0,"#0050ff","Tokelau
+Exports: 0",0
+"TON","Tonga",0,0,"#0050ff","Tonga
+Exports: 0",0
+"TUN","Tunisia",0,0,"#0050ff","Tunisia
+Exports: 0",0
+"TUV","Tuvalu",0,0,"#0050ff","Tuvalu
+Exports: 0",0
+"VAT","Holy See",0,0,"#0050ff","Holy See
+Exports: 0",0
+"VCT","Saint Vincent and the Grenadines",0,0,"#0050ff","Saint Vincent and the Grenadines
+Exports: 0",0
+"VGB","British Virgin Islands",0,0,"#0050ff","British Virgin Islands
+Exports: 0",0
+"VIR","U.S. Virgin Islands",0,0,"#0050ff","U.S. Virgin Islands
+Exports: 0",0
+"VUT","Vanuatu",0,0,"#0050ff","Vanuatu
+Exports: 0",0
+"WSM","Samoa",0,0,"#0050ff","Samoa
+Exports: 0",0
+"YEM","Yemen",0,0,"#0050ff","Yemen
+Exports: 0",0

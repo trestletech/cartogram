@@ -1,0 +1,45 @@
+dependencies:
+  - name: d3
+    version: 3.5.2
+    src: "htmlwidgets/lib/d3-3.5.2"
+    script: d3.min.js
+  - name: colorbrewer
+    version: 3.5.2
+    src: "htmlwidgets/lib/"
+    script: colorbrewer.js
+  - name: topojson
+    version: 1.6.19
+    src: "htmlwidgets/lib/"
+    script: topojson.js
+  - name: carto
+    version: 1.0.0
+    src: "htmlwidgets/lib/"
+    script: carto.js
+  - name: d3cartogram
+    version: 1.0.0
+    src: "htmlwidgets/lib/"
+    script: d3cartogram.js
+  - name: cartogramcss
+    version: 1.0.0
+    src: "htmlwidgets/lib/"
+    stylesheet: cartogram.css
+  - name: 'shapesusa'
+    version: 0.1.0
+    src: 'htmlwidgets/lib/shapes'
+    attachment: {"states": 'us-states.TOPOJSON'}
+  - name: 'shapeswf'
+    version: 0.1.0
+    src: 'htmlwidgets/lib/shapes'
+    attachment: {"world": 'worldw.topo.json'}
+  - name: 'shapesfr'
+    version: 0.1.0
+    src: 'htmlwidgets/lib/shapes'
+    attachment: {"world": 'regions-metropole-polygons-ms5.TOPOJSON'}
+  - name: 'shapesusaseg'
+    version: 0.1.0
+    src: 'htmlwidgets/lib/shapes'
+    attachment: {"states": 'us-states-segmentized.TOPOJSON'}
+  - name: 'shapescustom'
+    version: 0.1.0
+    src: 'htmlwidgets/lib/shapes'
+    attachment: {"world": 'custom.topo.json'}
