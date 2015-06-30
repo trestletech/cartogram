@@ -309,7 +309,7 @@ datasettransition, datasettransitioneasingfunction, mapzoomswitch, mapprojection
         // normalize the scale to positive numbers
         var scale = d3.scale.linear()
           .domain([lo, hi])
-          .range([10, 1000]);
+          .range([1, 1000]);
 
         // tell the cartogram to use the scaled values
         carto.value(function(d) {
