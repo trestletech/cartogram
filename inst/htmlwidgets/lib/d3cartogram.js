@@ -84,7 +84,7 @@ datasettransition, datasettransitioneasingfunction, mapzoomswitch, mapprojection
 
        fieldSelect.on("change", function(e) {
           field = fields[this.selectedIndex];
-          location.hash = "#" + [field.id].join("/");
+          location.hash = "#" + [encodeURIComponent(field.id)].join("/");
         });
 
 
