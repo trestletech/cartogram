@@ -368,7 +368,8 @@ datasettransition, datasettransitioneasingfunction, mapzoomswitch, mapprojection
         });
 
       function parseHash() {
-        var parts = location.hash.substr(1).split("/"),
+        var parsedHash = decodeURIComponent(location.hash);
+        var parts = parsedHash.substr(1).split("/"),
             desiredFieldId = parts[0],
             desiredYear = +parts[1];
 
