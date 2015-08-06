@@ -404,7 +404,7 @@ datasettransition, datasettransitioneasingfunction, mapzoomswitch, mapprojection
             .attr("disabled", null);
 
           deferredUpdate();
-          location.replace("#" + [field.id, year].join("/"));
+          location.hash = "#" + [field.id, year].join("/");
           //location.replace("#" + field.id);
 
           hashish.attr("href", function(href) {
